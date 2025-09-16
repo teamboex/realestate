@@ -1,0 +1,12 @@
+# Netlify redirects for SPA
+/*    /index.html   200
+
+# API routes (if any)
+/api/*  /api/:splat  200
+
+# Admin routes
+/admin/*  /admin/:splat  200
+
+# Property routes
+/properties/*  /properties/:splat  200
+/property/*  /property/:splat  200
