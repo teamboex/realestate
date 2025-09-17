@@ -15,7 +15,7 @@ const Properties = () => {
           </h2>
           <div className="w-24 h-1 bg-primary-600 mx-auto mb-6"></div>
           <p className="text-lg text-secondary-600 max-w-2xl mx-auto">
-            Discover our handpicked selection of premium properties in Ernakulam
+            Discover our handpicked selection of premium properties in Kottayam
             and surrounding areas
           </p>
         </div>

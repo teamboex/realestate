@@ -14,7 +14,7 @@ const About = () => {
             <div className="grid md:grid-cols-2 gap-8 items-center">
               <div>
                 <h3 className="text-2xl font-bold text-secondary-800 mb-4">
-                  Krishna Sanjay
+                  Niza Kareem
                 </h3>
                 <p className="text-secondary-600 mb-6 leading-relaxed">
                   With years of experience in the real estate industry, I am
@@ -23,10 +23,10 @@ const About = () => {
                   compliance, and customer satisfaction in every transaction.
                 </p>
                 <p className="text-secondary-600 mb-6 leading-relaxed">
-                  Based in Pulivelil House, Perumpilly PO, Mulanthuruthy,
-                  Ernakulam, I have an in-depth knowledge of the local property
-                  market and can help you find the perfect home or investment
-                  opportunity that meets your needs and budget.
+                  Based in PULLATHIL, PERUMBAIKKADU P O, Kottayam, I have an
+                  in-depth knowledge of the local property market and can help
+                  you find the perfect home or investment opportunity that meets
+                  your needs and budget.
                 </p>
               </div>
 
@@ -40,7 +40,7 @@ const About = () => {
                       Certificate No:
                     </span>
                     <span className="text-primary-600 font-semibold">
-                      K-RERA/AG/0138/2025
+                      K-RERA/AG/0124/2025
                     </span>
                   </div>
                   <div className="flex justify-between items-center py-2 border-b border-gray-200">
@@ -62,7 +62,7 @@ const About = () => {
                       Phone:
                     </span>
                     <span className="text-primary-600 font-semibold">
-                      6282106265
+                      8089896947
                     </span>
                   </div>
                 </div>

@@ -24,12 +24,15 @@ export default function Custom404() {
           </p>
 
           <div className="space-y-4">
-            <Link href="/" className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-6 rounded-lg transition-colors duration-200 shadow-lg hover:shadow-xl inline-block">
+            <Link
+              href="/"
+              className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-6 rounded-lg transition-colors duration-200 shadow-lg hover:shadow-xl inline-block"
+            >
               Go Back Home
             </Link>
             <div className="text-sm text-gray-500">
               <p>Need help? Contact us at:</p>
-              <p className="font-semibold text-blue-600">6282106265</p>
+              <p className="font-semibold text-blue-600">8089896947</p>
             </div>
           </div>
         </div>

@@ -25,7 +25,7 @@ const Hero = () => {
                 <span className="text-sm font-medium text-white/90">
                   RERA Certificate:{" "}
                   <span className="font-bold text-green-400">
-                    K-RERA/AG/0138/2025
+                    K-RERA/AG/0124/2025
                   </span>
                 </span>
               </div>
@@ -33,26 +33,26 @@ const Hero = () => {
               {/* Main Heading */}
               <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
                 <span className="bg-gradient-to-r from-white via-blue-100 to-blue-200 bg-clip-text text-transparent">
-                  Krishna Sanjay
+                  Day Dream Realtors
                 </span>
               </h1>
 
               {/* Subtitle */}
               <h2 className="text-2xl md:text-4xl font-semibold mb-8 text-blue-100 leading-relaxed">
-                Trusted RERA Registered Real Estate Agent in Ernakulam
+                Trusted RERA Registered Real Estate Agent in Kottayam
               </h2>
 
               {/* Description */}
               <p className="text-lg md:text-xl mb-12 text-blue-200 leading-relaxed max-w-2xl">
                 Your trusted partner for buying, selling, and investing in real
-                estate properties across Ernakulam and surrounding areas.
+                estate properties across Kottayam and surrounding areas.
                 Professional service with complete transparency.
               </p>
 
               {/* CTA Buttons */}
               <div className="flex flex-col sm:flex-row gap-6 justify-center lg:justify-start">
                 <a
-                  href="tel:6282106265"
+                  href="tel:8089896947"
                   className="group relative inline-flex items-center justify-center px-8 py-4 bg-gradient-to-r from-green-600 to-green-700 hover:from-green-700 hover:to-green-800 text-white font-bold text-lg rounded-full shadow-2xl hover:shadow-green-500/25 transition-all duration-300 transform hover:-translate-y-1"
                 >
                   <div className="absolute inset-0 bg-gradient-to-r from-green-600 to-green-700 rounded-full blur opacity-75 group-hover:opacity-100 transition duration-300"></div>
@@ -69,7 +69,7 @@ const Hero = () => {
                 </a>
 
                 <a
-                  href="https://wa.me/916282106265"
+                  href="https://wa.me/918089896947"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group relative inline-flex items-center justify-center px-8 py-4 bg-white/10 backdrop-blur-sm hover:bg-white/20 text-white font-bold text-lg rounded-full border-2 border-white/30 hover:border-white/50 transition-all duration-300 transform hover:-translate-y-1"

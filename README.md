@@ -1,6 +1,6 @@
-# Krishna Sanjay - Real Estate Agent Website
+# Day Dream Realtors - Real Estate Agent Website
 
-A professional one-page website for Krishna Sanjay, a RERA-registered real estate agent in Ernakulam, Kerala.
+A professional one-page website for Niza Kareem, a RERA-registered real estate agent in Kottayam, Kerala.
 
 ## Features
 
@@ -10,7 +10,7 @@ A professional one-page website for Krishna Sanjay, a RERA-registered real estat
 - **Contact Integration**: Direct phone and WhatsApp links
 - **Property Showcase**: Featured properties with enquiry buttons
 - **Contact Form**: Lead generation form with validation
-- **Google Maps**: Location embed for Mulanthuruthy, Ernakulam
+- **Google Maps**: Location embed for Kottayam, Kerala
 - **Mobile Floating Buttons**: Sticky WhatsApp and Call buttons for mobile users
 
 ## Sections
@@ -34,22 +34,25 @@ A professional one-page website for Krishna Sanjay, a RERA-registered real estat
 
 ### Prerequisites
 
-- Node.js 18+ 
+- Node.js 18+
 - npm or yarn
 
 ### Installation
 
 1. Navigate to the project directory:
+
    ```bash
    cd krishna-sanjay-real-estate
    ```
 
 2. Install dependencies:
+
    ```bash
    npm install
    ```
 
 3. Run the development server:
+
    ```bash
    npm run dev
    ```
@@ -66,16 +69,20 @@ npm start
 ## Customization
 
 ### Contact Information
+
 Update the following files with your actual contact details:
+
 - `components/Hero.tsx` - Phone number and WhatsApp link
 - `components/About.tsx` - RERA certificate details
 - `components/Contact.tsx` - Contact form and information
 - `components/Footer.tsx` - Footer contact details
 
 ### Property Images
+
 Replace the Unsplash image URLs in `components/Properties.tsx` with your actual property images.
 
 ### Google Maps
+
 Update the Google Maps embed URL in `components/Contact.tsx` with the correct coordinates for your location.
 
 ## Agent Information

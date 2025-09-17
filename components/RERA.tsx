@@ -105,7 +105,7 @@ const RERA = () => {
                       Certificate Number:
                     </span>
                     <span className="text-primary-600 font-bold text-lg">
-                      K-RERA/AG/0138/2025
+                      K-RERA/AG/0124/2025
                     </span>
                   </div>
                   <div className="flex justify-between items-center py-3 border-b border-gray-200">
@@ -113,7 +113,7 @@ const RERA = () => {
                       Agent Name:
                     </span>
                     <span className="text-primary-600 font-semibold">
-                      Krishna Sanjay
+                      Niza Kareem
                     </span>
                   </div>
                   <div className="flex justify-between items-center py-3 border-b border-gray-200">

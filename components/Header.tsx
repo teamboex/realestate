@@ -22,10 +22,10 @@ const Header = () => {
               <div className="absolute -inset-1 bg-gradient-to-r from-primary-600 to-primary-800 rounded-lg blur opacity-25 group-hover:opacity-40 transition duration-1000 group-hover:duration-200"></div>
               <div className="relative bg-gradient-to-r from-primary-600 to-primary-800 bg-clip-text text-transparent">
                 <div className="text-3xl font-bold tracking-tight">
-                  Krishna Sanjay
+                  Day Dream Realtors
                 </div>
                 <div className="text-sm font-medium text-secondary-600 -mt-1">
-                  Real Estate Agent
+                  Niza Kareem - Real Estate Agent
                 </div>
               </div>
             </div>
@@ -54,7 +54,7 @@ const Header = () => {
               🏠 Upload Property
             </a>
             <a
-              href="tel:6282106265"
+              href="tel:8089896947"
               className="bg-gradient-to-r from-green-600 to-green-700 hover:from-green-700 hover:to-green-800 text-white px-6 py-2.5 rounded-full font-semibold text-sm transition-all duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5"
             >
               📞 Call Now
@@ -107,7 +107,7 @@ const Header = () => {
                   🏠 Upload Property
                 </a>
                 <a
-                  href="tel:6282106265"
+                  href="tel:8089896947"
                   className="bg-gradient-to-r from-green-600 to-green-700 hover:from-green-700 hover:to-green-800 text-white px-4 py-3 rounded-lg font-semibold text-sm transition-all duration-300 shadow-lg hover:shadow-xl block text-center"
                   onClick={() => setIsMenuOpen(false)}
                 >

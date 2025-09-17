@@ -7,16 +7,16 @@ const Footer = () => {
         <div className="grid md:grid-cols-3 gap-8 mb-8">
           {/* Company Info */}
           <div>
-            <h3 className="text-2xl font-bold mb-4">Krishna Sanjay</h3>
+            <h3 className="text-2xl font-bold mb-4">Day Dream Realtors</h3>
             <p className="text-gray-300 mb-4 leading-relaxed">
-              Your trusted RERA-registered real estate agent in Ernakulam.
+              Your trusted RERA-registered real estate agent in Kottayam.
               Committed to providing transparent, professional, and reliable
               real estate services.
             </p>
             <div className="text-sm text-gray-400">
-              <p className="mb-1">RERA Certificate: K-RERA/AG/0138/2025</p>
-              <p>Pulivelil House, Perumpilly PO</p>
-              <p>Mulanthuruthy, Ernakulam, Kerala 682314</p>
+              <p className="mb-1">RERA Certificate: K-RERA/AG/0124/2025</p>
+              <p>PULLATHIL, PERUMBAIKKADU P O</p>
+              <p>Kottayam, Kerala 686016</p>
             </div>
           </div>
 
@@ -81,10 +81,10 @@ const Footer = () => {
                   <path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z" />
                 </svg>
                 <a
-                  href="mailto:krishnasanjay68@gmail.com"
+                  href="mailto:nizakareem27@gmail.com"
                   className="text-gray-300 hover:text-white"
                 >
-                  krishnasanjay68@gmail.com
+                  nizakareem27@gmail.com
                 </a>
               </div>
               <div className="flex items-center">
@@ -96,10 +96,10 @@ const Footer = () => {
                   <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z" />
                 </svg>
                 <a
-                  href="tel:6282106265"
+                  href="tel:8089896947"
                   className="text-gray-300 hover:text-white"
                 >
-                  +91 6282106265
+                  +91 8089896947
                 </a>
               </div>
               <div className="flex items-start">
@@ -115,9 +115,9 @@ const Footer = () => {
                   />
                 </svg>
                 <span className="text-gray-300">
-                  Pulivelil House, Perumpilly PO
+                  PULLATHIL, PERUMBAIKKADU P O
                   <br />
-                  Mulanthuruthy, Ernakulam, Kerala 682314
+                  Kottayam, Kerala 686016
                 </span>
               </div>
             </div>
@@ -127,7 +127,7 @@ const Footer = () => {
               <h5 className="text-sm font-semibold mb-3">Follow Me</h5>
               <div className="flex space-x-4">
                 <a
-                  href="https://wa.me/916282106265"
+                  href="https://wa.me/918089896947"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 bg-green-600 hover:bg-green-700 rounded-full flex items-center justify-center transition-colors duration-200"
@@ -141,7 +141,7 @@ const Footer = () => {
                   </svg>
                 </a>
                 <a
-                  href="tel:6282106265"
+                  href="tel:8089896947"
                   className="w-10 h-10 bg-blue-600 hover:bg-blue-700 rounded-full flex items-center justify-center transition-colors duration-200"
                 >
                   <svg
@@ -161,7 +161,7 @@ const Footer = () => {
         <div className="border-t border-gray-700 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm mb-4 md:mb-0">
-              © {currentYear} Krishna Sanjay. All rights reserved.
+              © {currentYear} Day Dream Realtors. All rights reserved.
             </p>
             <div className="flex space-x-6 text-sm">
               <a

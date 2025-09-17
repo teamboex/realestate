@@ -62,10 +62,10 @@ const Contact = () => {
                     Email
                   </h4>
                   <a
-                    href="mailto:krishnasanjay68@gmail.com"
+                    href="mailto:nizakareem27@gmail.com"
                     className="text-primary-600 hover:text-primary-700"
                   >
-                    krishnasanjay68@gmail.com
+                    nizakareem27@gmail.com
                   </a>
                 </div>
               </div>
@@ -85,10 +85,10 @@ const Contact = () => {
                     Phone
                   </h4>
                   <a
-                    href="tel:6282106265"
+                    href="tel:8089896947"
                     className="text-primary-600 hover:text-primary-700"
                   >
-                    +91 6282106265
+                    +91 8089896947
                   </a>
                 </div>
               </div>
@@ -112,9 +112,9 @@ const Contact = () => {
                     Address
                   </h4>
                   <p className="text-secondary-600">
-                    Pulivelil House, Perumpilly PO
+                    PULLATHIL, PERUMBAIKKADU P O
                     <br />
-                    Mulanthuruthy, Ernakulam, Kerala 682314
+                    Kottayam, Kerala 686016
                   </p>
                 </div>
               </div>
@@ -138,7 +138,7 @@ const Contact = () => {
                     RERA Certificate
                   </h4>
                   <p className="text-primary-600 font-semibold">
-                    K-RERA/AG/0138/2025
+                    K-RERA/AG/0124/2025
                   </p>
                 </div>
               </div>
@@ -147,7 +147,7 @@ const Contact = () => {
             {/* Quick Action Buttons */}
             <div className="mt-8 space-y-4">
               <a
-                href="tel:6282106265"
+                href="tel:8089896947"
                 className="w-full btn-primary flex items-center justify-center"
               >
                 <svg
@@ -160,7 +160,7 @@ const Contact = () => {
                 Call Now
               </a>
               <a
-                href="https://wa.me/916282106265"
+                href="https://wa.me/918089896947"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full btn-secondary flex items-center justify-center"
@@ -262,7 +262,7 @@ const Contact = () => {
               allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title="Location Map - Mulanthuruthy, Ernakulam"
+              title="Location Map - Kottayam, Kerala"
             ></iframe>
           </div>
         </div>

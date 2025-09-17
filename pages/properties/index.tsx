@@ -58,10 +58,10 @@ const PropertiesPage = () => {
   return (
     <>
       <Head>
-        <title>Properties | Krishna Sanjay Real Estate</title>
+        <title>Properties | Day Dream Realtors</title>
         <meta
           name="description"
-          content="Browse our extensive collection of properties in Ernakulam and surrounding areas. Find your dream home with our RERA-registered real estate services."
+          content="Browse our extensive collection of properties in Kottayam and surrounding areas. Find your dream home with our RERA-registered real estate services."
         />
       </Head>
 
@@ -71,7 +71,7 @@ const PropertiesPage = () => {
           <div className="container-max">
             <div className="flex justify-between items-center py-4">
               <Link href="/" className="text-2xl font-bold text-primary-600">
-                Krishna Sanjay
+                Day Dream Realtors
               </Link>
               <nav className="hidden md:flex space-x-8">
                 <Link

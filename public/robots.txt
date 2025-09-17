@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://krishnasanjay.com/sitemap.xml
+Sitemap: https://daydreamrealtors.com/sitemap.xml
 
 # Crawl-delay for respectful crawling
 Crawl-delay: 1
